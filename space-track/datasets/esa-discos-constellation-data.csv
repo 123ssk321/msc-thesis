@@ -1,0 +1,28 @@
+area,operEcc,operEnd,objectNumber,operLifetime,designName,cola,operInc,operSma,scPerLaunch,annualReplenishLaunches,deployStart,mass,operStart,numberPlanes,annualDeploymentLaunches,status,propulsionSystem,discosID
+5.5869,0.0001,2014-10-20,48,7.5,Globalstar-G1,True,52.0,7800000.0,4,0.0,1998-02-14,715.0,1999-10-01,8,4.33,decommissioned,chemical,3
+21.2455,0.0001,2300-01-01,24,15.0,Globalstar-G2,True,52.0,7800000.0,5,,2010-10-19,715.0,2013-02-06,8,0.38,fully operational,chemical,4
+1.7804,0.0001,2300-01-01,12,5.0,Gonets,False,82.58,7790000.0,3,,1992-07-13,240.278,2015-03-01,6,0.42,fully operational,none,5
+13.9061,0.0001,2300-01-01,66,15.0,Iridium-NEXT,True,86.4,7158000.0,9,,2017-01-01,860.0,2017-01-01,6,1.29,fully operational,chemical,6
+2.1917,0.0001,2300-01-01,648,10.0,OneWeb,True,87.9,7578000.0,33,,2019-02-27,148.0,2023-06-01,12,3.17,partially operational,electrical,7
+0.037,0.0001,2300-01-01,100,5.0,Astrocast,True,97.5,6899000.0,3,,2021-01-24,4.74,2025-01-01,25,1.0,deployment,chemical,11
+0.4436,0.0001,2300-01-01,30,3.0,Capella-Space,True,45.0,6896000.0,1,,2022-07-08,104.545,2023-01-01,10,1.0,partially operational,electrical,12
+0.2399,0.0001,2300-01-01,30,3.0,Hawkeye-i41,True,40.5,6928000.0,3,,2023-01-24,31.0,2025-01-01,5,0.5,deployment,electrical,16
+0.625,0.0001,2300-01-01,30,3.0,BlackSky-i42,True,42.0,6878000.0,2,,2016-06-29,55.0,2030-01-01,3,1.0,deployment,electrical,17
+0.08,0.0001,2300-01-01,80,3.0,KLEOS,True,97.5,6903000.0,4,,2021-06-30,10.0,2032-01-01,4,0.75,deployment,electrical,18
+0.2231,0.0001,2300-01-01,36,5.0,Skywalker-i45,True,45.0,7078000.0,5,,2019-12-07,40.0,2023-01-01,6,0.5,partially operational,electrical,19
+0.2231,0.0001,2300-01-01,12,5.0,Skywalker-i98,True,97.8,6978000.0,1,,2019-12-07,45.0,2023-01-01,6,1.0,partially operational,electrical,20
+0.4591,0.0001,2300-01-01,200,3.0,NuSat,True,97.3,6848000.0,4,,2016-05-30,39.198,2030-01-01,2,1.33,deployment,chemical,21
+1.9302,0.0001,2300-01-01,300,1.0,Jilin-1,True,97.5,6918000.0,6,,2015-07-10,49.738,2025-01-01,30,2.2,deployment,,22
+0.3265,0.0001,2300-01-01,24,3.0,Hawkeye-i98,True,97.6,6878000.0,3,,2021-01-24,31.0,2025-01-01,4,1.25,deployment,electrical,23
+0.625,0.0001,2300-01-01,30,3.0,BlackSky-i53,True,53.0,6878000.0,2,,2016-06-29,55.0,2030-01-01,3,0.6,deployment,electrical,250
+13.5615,0.001278,2300-01-01,1584,5.0,Starlink-G1-P1-group1,True,53.0,6921000.0,59,,2019-05-24,258.956,2019-05-26,72,9.67,fully operational,electrical,251
+12.3431,0.0009,2300-01-01,720,5.0,Starlink-G1-P1-group2,True,70.0,6941000.0,50,,2021-09-14,282.161,2021-09-20,36,2.0,partially operational,electrical,252
+13.0932,0.00133,2300-01-01,348,5.0,Starlink-G1-P1-group3,True,97.6,6931000.0,35,,2021-01-24,267.572,2021-01-24,6,1.75,partially operational,electrical,253
+13.398,0.001278,2300-01-01,1584,5.0,Starlink-G1-P1-group4,True,53.2,6911000.0,50,,2021-11-13,260.0,2021-11-13,72,8.0,partially operational,electrical,254
+11.9279,0.001035657,2300-01-01,1250,5.0,Starlink-G2-P1-group5,True,43.0,6901000.0,50,,2022-12-28,292.184,2022-12-28,25,4.67,partially operational,electrical,255
+33.8839,0.0001,2300-01-01,1250,5.0,Starlink-G2-P1-group6,True,43.0,6930000.0,21,,2023-02-27,750.0,2023-02-27,25,17.5,partially operational,electrical,256
+33.8839,0.0001,2300-01-01,2500,5.0,Starlink-G2-P1-group7,True,53.0,6896000.0,20,,2023-08-22,750.0,2023-08-22,25,4.0,partially operational,electrical,257
+1.6954,0.001244865,2019-12-22,32,4.0,OrbComm,True,45.0,7171000.0,4,0.0,1997-12-23,84.571,1997-12-23,4,1.67,decommissioned,chemical,258
+1.567,0.001626815,2040-01-01,30,2.0,ICEYE-X,True,97.7,6941000.0,3,,2018-12-04,85.833,2018-12-04,3,1.5,partially operational,chemical,259
+0.888,0.00154,2300-01-01,6,6.0,SkySat-i53,True,53.0,6771000.0,3,0.15,2020-06-13,110.0,2020-06-17,2,2.0,fully operational,chemical,265
+0.888,0.00145,2023-11-01,11,6.0,SkySat-i98,True,98.0,6821000.0,4,0.0,2013-11-21,110.0,2013-11-21,1,1.5,decommissioned,chemical,266
