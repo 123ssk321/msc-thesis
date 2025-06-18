@@ -1,0 +1,7 @@
+Dataset,,medref,medref,medref,medref,medref,medref
+Metric,,iou,fid+,fid-,unfaithfulness,characterization_score,inference_time
+Explainer,Model,,,,,,
+ciexplainer,gcn,0,0.0,0.015,0.0,0.0,5.505885691642761
+ciexplainer,graphsage,0,0.0,0.025,0.0,0.0,3.368994904756546
+ciexplainer,gat,0,0.0,0.03,0.0,0.0,6.8809093153476715
+ciexplainer,gin,0,0.0,0.03,0.0,0.0,3.3871326196193694

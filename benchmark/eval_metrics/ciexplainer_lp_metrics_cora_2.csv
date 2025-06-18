@@ -1,0 +1,7 @@
+Dataset,,cora,cora,cora,cora,cora,cora
+Metric,,iou,fid+,fid-,unfaithfulness,characterization_score,inference_time
+Explainer,Model,,,,,,
+ciexplainer,gcn,0,0.0,0.0,0.0,0.0,0.1139095938205719
+ciexplainer,graphsage,0,0.0,0.0,0.0,0.0,0.07618155837059021
+ciexplainer,gat,0,0.0,0.0,0.0,0.0,0.15078262925148012
+ciexplainer,gin,0,0.0,0.005,0.0,0.0,0.07503252983093261

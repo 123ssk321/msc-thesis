@@ -1,0 +1,7 @@
+Dataset,,medref,medref,medref,medref,medref,cora,cora,cora,cora,cora
+Metric,,fid+,fid-,unfaithfulness,characterization_score,inference_time,fid+,fid-,unfaithfulness,characterization_score,inference_time
+Explainer,Model,,,,,,,,,,
+pgexplainer,gcn,0.0,0.015,0.0,0.0,0.002594902515411377,0.0,0.14,0.0,0.0,0.0023771774768829345
+pgexplainer,graphsage,0.0,0.025,0.0,0.0,0.0021276867389678957,0.0,0.22,0.0,0.0,0.0035879135131835936
+pgexplainer,gat,0.0,0.03,0.0,0.0,0.0029277026653289793,0.0,0.105,0.0,0.0,0.0027648746967315675
+pgexplainer,gin,0.0,0.03,0.0,0.0,0.0022366130352020263,0.0,0.205,0.0,0.0,0.003712049722671509

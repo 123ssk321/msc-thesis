@@ -1,0 +1,7 @@
+Dataset,,ba_2motif,ba_2motif,ba_2motif,ba_2motif,ba_2motif,ba_2motif,ba_2motif,ba_2motif
+Metric,,accuracy,auroc,iou,fid+,fid-,unfaithfulness,characterization_score,inference_time
+Explainer,Model,,,,,,,,
+pgexplainer,gcn,0.21280000284314154,0.5080000001192093,0.20502323,0.0,0.0,0.0,0.0,0.0021384763717651367
+pgexplainer,graphsage,0.14159999698400497,0.35400000870227816,0.14159998,0.0,0.6,0.0,0.0,0.001410672664642334
+pgexplainer,gat,0.20000000298023224,0.5,0.20000006,0.0,0.0,0.0,0.0,0.0026448464393615725
+pgexplainer,gin,0.9775999909639359,0.9447499889135361,0.88866687,0.0,0.15,0.0,0.0,0.0015601325035095215
