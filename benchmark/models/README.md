@@ -10,5 +10,5 @@ This directory contains the GNNs used in the thesis divided into subdirectories 
 
 `dataset` can take one of the following values: '`ba_shapes`', '`tree_grid`', '`ba_2motif`'.
 
-**Real Datasets**: MUTAG (graph classification). There is no variation of GNNs for this dataset. The naming convention it is the same as in the synthetic case but without `X` and `dataset` must have the value '`mutag`'.
+**Real Datasets**: MUTAG (graph classification) and Cora (link prediction). There is no variation of GNNs for these datasets. The naming convention it is the same as in the synthetic case but without `X` and `dataset` must have the value '`mutag`' or '`cora`'.
 

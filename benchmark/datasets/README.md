@@ -6,4 +6,4 @@ This directory contains the publicly available benchmark datasets used in the th
 
 `dataset` can take one of the following values: '`ba_shapes`', '`tree_grid`', '`ba_2motif`'.
 
-**Real Datasets**: MUTAG (graph classification).  There are no variations of this dataset because it has original features.
+**Real Datasets**: MUTAG (graph classification) and Cora (link prediction).  There are no variations of these datasets because they have original features.
